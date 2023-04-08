@@ -1,6 +1,6 @@
 # Python
 Выбери тему
-1. [SCV](https://github.com/ZadireyEvgeny/Python/tree/master/PythonTasks/CSV)                           11. [FunctionTasks2](https://github.com/ZadireyEvgeny/Python/tree/master/PythonTasks/FunctionTasks2)
+1. [SCV](https://github.com/ZadireyEvgeny/Python/tree/master/PythonTasks/CSV)
 2. [Compositions](https://github.com/ZadireyEvgeny/Python/tree/master/PythonTasks/Compositions)
 3. [Data_processing](https://github.com/ZadireyEvgeny/Python/tree/master/PythonTasks/Data_processing)
 4. [Database](https://github.com/ZadireyEvgeny/Python/tree/master/PythonTasks/Database)
